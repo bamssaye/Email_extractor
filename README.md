@@ -1,4 +1,4 @@
-# Email Address Extractor Script
+# Email Extractor :
 
 This Bash script is designed to process text files in a directory (`input_file_txt`) and extract email addresses. It provides an option to filter email addresses based on a specified domain.
 
@@ -7,7 +7,7 @@ This Bash script is designed to process text files in a directory (`input_file_t
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/bamssaye/Email_extractor.git
     ```
 
 2. **Navigate to the Directory**
