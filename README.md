@@ -7,19 +7,19 @@ This Bash script is designed to process text files in a directory (`input_file_t
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/bamssaye/Email_extractor.git
+    git clone https://github.com/bamssaye/Email_extractor.git Email_extractor
     ```
 
 2. **Navigate to the Directory**
 
     ```bash
-    cd repository
+    cd Email_extractor
     ```
 
 3. **Run the Script**
 
     ```bash
-    ./script.sh
+    bash email_extract.sh
     ```
 
 4. **Follow the Prompts**
